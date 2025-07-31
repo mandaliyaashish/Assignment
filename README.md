@@ -25,8 +25,8 @@ assignment/
 
 1. Clone the Repository
 
-* git clone https://github.com/mandaliyaashish/Assignment.git
-* cd Assignment
+* git clone https://github.com/mandaliyaashish/Random-IT-Scenario-Generator.git
+* cd Random-IT-Scenario-Generator
 * npm install
 
 2. Create Environment File
